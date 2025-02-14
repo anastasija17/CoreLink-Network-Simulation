@@ -9,4 +9,4 @@ Create a network topology with major components that supports the following:
 
 Main office  
 
-The first building - it houses the following departments: administration, finance and accounting, administration and management, as well as the human resources department. Staff computers are distributed throughout the building and some network equipment is expected to be shared.
+**The first building** - it houses the following departments: administration, finance and accounting, administration and management, as well as the human resources department. Staff computers are distributed throughout the building and some network equipment is expected to be shared.
