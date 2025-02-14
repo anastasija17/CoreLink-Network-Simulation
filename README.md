@@ -77,3 +77,4 @@ In this part, the e-mail server located on the cloud will be shown, as well as t
 *Image 8:Internet Service Provider Router* 
 
 NOTE: for all routers the password and enable password is cisco, while the username for SSH access (possible from the device of the IT department) is admin.
+      The project was created for the needs of the Advanced Computer Networks course at the master's studies of the Faculty of Organizational Sciences at the University of Belgrade.
