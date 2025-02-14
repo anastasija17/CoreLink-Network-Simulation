@@ -43,3 +43,37 @@ This branch has only two departments, the legal department and the strategy and 
    are assigned statically.
 
 12.  Within the office in Niš, addresses are statically assigned to devices in both departments.
+
+## Physical structure of the network
+
+In the following, pictures will be given that show the physical structure of the CoreLink company's network, which is realized in Cisco Packet Tracer. Device configuration details can be seen by opening the project itself.
+### Office in Belgrade
+![prva zgrada](images/prvaZ.JPG)
+*Image 1:The first office building in Belgrade*
+
+![druga zgrada](images/drugaZ.JPG)                              
+*Image 2:The second office building in Belgrade*   
+
+![treca zgrada](images/trecaZ.JPG)
+*Image 3:The thitd office building in Belgrade* 
+
+![ruter bg](images/bgR.JPG)
+*Image 4:The router and multilayer switch for office building in Belgrade* 
+
+### Office in Nis
+![nis zgrada](images/nisZ.JPG)
+*Image 5:The office building in Nis* 
+
+![ruter ni](images/niR.JPG)
+*Image 6:The router and multilayer switch for office building in Belgrade* 
+
+### Services and networks outside the company's network
+In this part, the e-mail server located on the cloud will be shown, as well as the ISP (Internet Service Provider) router that enables the connection of the CoreLink company's network with the outside world.
+
+![cloud](images/cloud.JPG)
+*Image 7:E-mail server on Cloud* 
+
+![isp](images/isp.JPG)
+*Image 8:Internet Service Provider Router* 
+
+NOTE: for all routers the password and enable password is cisco, while the username for SSH access (possible from the device of the IT department) is admin.
